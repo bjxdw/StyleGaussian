@@ -1,0 +1,4 @@
+# ninja log v5
+0	8288	1731447812971363630	/home/medcvr/ziyue/StyleGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	ceea402981e5462a
+0	11162	1731447815847371234	/home/medcvr/ziyue/StyleGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	476909797f24d3dd
+1	33015	1731447837695428720	/home/medcvr/ziyue/StyleGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	2d88e64b843a00b3

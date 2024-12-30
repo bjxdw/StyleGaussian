@@ -1,0 +1,6 @@
+# ninja log v5
+1	2595	1731447733747150622	/home/medcvr/ziyue/StyleGaussian/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/forward.o	6060f88c7d01936c
+0	2622	1731447733775150699	/home/medcvr/ziyue/StyleGaussian/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/backward.o	3ecfb855e91d9713
+1	6264	1731447737415160644	/home/medcvr/ziyue/StyleGaussian/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/cuda_rasterizer/rasterizer_impl.o	1234a74064026fce
+2	11673	1731447742827175401	/home/medcvr/ziyue/StyleGaussian/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/ext.o	66dde551f1b9f910
+2	33427	1731447764567234331	/home/medcvr/ziyue/StyleGaussian/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-38/rasterize_points.o	6697dd7dbb53c7f7
